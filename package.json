@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/logo-uabc",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a logo-uabc",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/logo-uabc.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://mejorhistoria.com/logo-uabc/"
+    },
+    "homepage": "https://mejorhistoria.com/logo-uabc/"
+}
